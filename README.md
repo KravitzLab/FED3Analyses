@@ -1,6 +1,6 @@
 # PsygeneAnalyses
 
-# To view and collaborate in github via Google Colab
+## To view and collaborate in github via Google Colab
 Open the file using the "open in colab" button.
 For importing to Github From Google Colab:
 1. Link google colab to Github by navigating to settings, go to github and follow directions to link accounts.
