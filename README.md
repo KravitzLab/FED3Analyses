@@ -4,11 +4,11 @@ This repository contains Jupyter notebooks for analyzing data collected during s
 
 ## Available analyses
 
-| Task | Analysis guide |
+| Task | Analysis notebook |
 |---|---|
-| Bandit task | [FED3 Bandit Analysis]([FED3_Bandit_analysis.md](https://colab.research.google.com/drive/1fiMLBjdSDI3QZTRVNDsF_3JtpJ9Bkqpu)) |
-| Fixed Ratio 1 (FR1) | [FED3 FR1 Analysis]([FED3_FR1_analysis.md](https://colab.research.google.com/drive/1EpVsSEdyg3zqHRE36ZeDmucZjbw0VtLX)) |
-| Progressive Ratio 1 (PR1) | [[FED3 PR1 Analysis](FED3_PR1_analysis.md](https://colab.research.google.com/drive/1_sM0vYejJOn5_pG-ccfrJlzPJ22NAxfA)) |
+| Bandit task | [FED3 Bandit Analysis](https://colab.research.google.com/drive/1fiMLBjdSDI3QZTRVNDsF_3JtpJ9Bkqpu) |
+| Fixed Ratio 1 (FR1) | [FED3 FR1 Analysis](https://colab.research.google.com/drive/1EpVsSEdyg3zqHRE36ZeDmucZjbw0VtLX) |
+| Progressive Ratio 1 (PR1) | [FED3 PR1 Analysis](https://colab.research.google.com/drive/1_sM0vYejJOn5_pG-ccfrJlzPJ22NAxfA) |
 
 ## Documentation
 Additional information about the metrics collected during these tasks are available in the [FED3 Library Wiki](https://github.com/KravitzLabDevices/FED3_library/wiki).
